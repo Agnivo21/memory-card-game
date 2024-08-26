@@ -1,0 +1,47 @@
+[
+    {
+        "keyword": "Sovereign",
+        "name": "sovereign",
+        "message": "Power resides with the people! Sovereign matched."
+    },
+    {
+        "keyword": "Socialist",
+        "name": "socialist",
+        "message": "Equality for all! You matched socialist."
+    },
+    {
+        "keyword": "Secular",
+        "name": "secular",
+        "message": "Respecting all faiths! Secular matched."
+    },
+    {
+        "keyword": "Democratic",
+        "name": "democratic",
+        "message": "Power to the people! Democratic match found."
+    },
+    {
+        "keyword": "Republic",
+        "name": "republic",
+        "message": "For the people! Republic matched."
+    },
+    {
+        "keyword": "Justice",
+        "name": "justice",
+        "message": "Fair and just! Justice pair complete."
+    },
+    {
+        "keyword": "Liberty",
+        "name": "liberty",
+        "message": "Freedom for all! Liberty matched."
+    },
+    {
+        "keyword": "Equality",
+        "name": "equality",
+        "message": "Equal rights! Equality matched."
+    },
+    {
+        "keyword": "Fraternity",
+        "name": "fraternity",
+        "message": "Brotherhood! Fraternity matched."
+    }
+]
